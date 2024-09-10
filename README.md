@@ -5,6 +5,8 @@ Predicting future demand and optimizing inventory management can be done by usin
 
 **Predictive analysis using machine learning**  
 Predictive analytics involves analyzing large datasets to identify patterns and predict future outcomes using machine learning algorithms. This document explores multiple machine learning algorithms to achieve the most accurate predictions. 
+
+
 **1. ARIMA**
 -  Stands for AutoRegressive Integrated Moving Average.
 -  Ideal for time series forecasting with trend and seasonality.
