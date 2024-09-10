@@ -14,7 +14,7 @@ All rights reserved with original authors.
 
 
 **DATA DESCRIPTION**
-The dataset is taken from kaggle, original author built it from 600000 transactional data points over a timeperiod of 6 years (period 2014-2019), indicating date and time of sale, pharmaceutical drug brand name and sold quantity, exported from Point-of-Sale system in the individual pharmacy. Selected group of drugs from the dataset (57 drugs) is classified to the following Anatomical Therapeutic Chemical (ATC) Classification System categories:
+The dataset is taken from kaggle, original author built it from 600000 transactional data points over a timeperiod of 6 years (period 2014-2019), indicating date and time of sale, pharmaceutical drug brand name and sold quantity, exported from Point-of-Sale system in the individual pharmacy. Then the author preprocessed and bunched these 57 drugs into groups of these following Anatomical Therapeutic Chemical (ATC) Classification System categories:
 
 M01AB - Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances
 M01AE - Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives
