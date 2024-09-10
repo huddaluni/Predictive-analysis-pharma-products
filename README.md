@@ -2,6 +2,32 @@
 
 Predicting future demand and optimizing inventory management can be done by using historical data of the products, after cleaning the data its ready for applying a range of predictive machine learning algorithms. The main goal is to forecast future demand and predict sales a key insight for managing products. This enables executive management to make informed decisions regarding marketing, promotions, and overall business strategy. What to sell and when to sell it !
 
+**Data**
+
+The data set is taken from kaggle  
+url: https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data
+DOI: 10.34740/kaggle/ds/466126
+All rights reserved with original authors.
+
+
+**DATA DESCRIPTION**
+The dataset is taken from kaggle, original author built it from 600000 transactional data points over a timeperiod of 6 years (period 2014-2019), indicating date and time of sale, pharmaceutical drug brand name and sold quantity, exported from Point-of-Sale system in the individual pharmacy. Selected group of drugs from the dataset (57 drugs) is classified to the following Anatomical Therapeutic Chemical (ATC) Classification System categories:
+
+M01AB - Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances
+M01AE - Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives
+N02BA - Other analgesics and antipyretics, Salicylic acid and derivatives
+N02BE/B - Other analgesics and antipyretics, Pyrazolones and Anilides
+N05B - Psycholeptics drugs, Anxiolytic drugs
+N05C - Psycholeptics drugs, Hypnotics and sedatives drugs
+R03 - Drugs for obstructive airway diseases
+R06 - Antihistamines for systemic use
+Sales data are resampled to the hourly, daily, weekly and monthly periods. Data is already pre-processed, where processing included outlier detection and treatment and missing data imputation.
+
+
+
+
+
+
 
 **Predictive analysis using machine learning**  
 Predictive analytics involves analyzing large datasets to identify patterns and predict future outcomes using machine learning algorithms. This document explores multiple machine learning algorithms to achieve the most accurate predictions. 
