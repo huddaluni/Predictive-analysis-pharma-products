@@ -69,13 +69,16 @@ Python is used for both the analysis and visualization of the forecasted data. P
 
 ### **Benefits of Predictive Sales Forecasting**
 
+
 **Improved Decision-Making**
-- Helps executive management refine marketing and promotional strategies by providing data-driven insights. (It helps managers decide the best ways to sell products.)
+-  Helps executive management refine marketing and promotional strategies by providing data-driven insights. (It helps managers decide the best ways to sell products.)
+  
   
 **Supply and Budget Planning**
-- Ensures a balanced approach to supply and budgeting, avoiding overstock or stockouts in inventory. (It helps prevent buying too much or too little of a product.)
+-  Ensures a balanced approach to supply and budgeting, avoiding overstock or stockouts in inventory. (It helps prevent buying too much or too little of a product.)
+  
   
 **Strategic Insights**
-  Provides a clear understanding of the company's business strategy across different regions, aiding in sales improvement. (It shows how well the company is selling in different places, helping to improve sales.)
+-  Provides a clear understanding of the company's business strategy across different regions, aiding in sales improvement. (It shows how well the company is selling in different places, helping to improve sales.)
 
 
