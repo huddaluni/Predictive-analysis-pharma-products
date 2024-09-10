@@ -5,8 +5,11 @@ Predicting future demand and optimizing inventory management can be done by usin
 **Data**
 
 The data set is taken from kaggle  
+
 url: https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data
+
 DOI: 10.34740/kaggle/ds/466126
+
 All rights reserved with original authors.
 
 
