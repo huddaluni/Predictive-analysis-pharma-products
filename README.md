@@ -58,8 +58,8 @@ Python is used for both the analysis and visualization of the forecasted data. P
   
 **5. Matplotlib and Seaborn**
 -  Creates clear and informative visualizations.
--  Matplotlib is foundational; Seaborn enhances aesthetics.
--  Crucial for presenting data and model results.
+-  Seaborn has beautiful aesthetics.
+-  for presenting data and model results in a visually appealing and understandable manner.
 
 - 
 **6. TensorFlow/PyTorch**
